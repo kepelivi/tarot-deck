@@ -1,2 +1,2 @@
 # tarot-deck
-Interactive website showcasing the Rider tarot deck as a product.
+Animated website showcasing the Rider tarot deck as a product.
